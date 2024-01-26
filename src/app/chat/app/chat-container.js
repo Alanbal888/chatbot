@@ -1,5 +1,5 @@
 
-import UserChatbox from "@/app/user_input/app/user-chatbox"
+import UserChatbox from "../../user_input/app/user-chatbox"
 
 export default function ChatContainer (){
 
